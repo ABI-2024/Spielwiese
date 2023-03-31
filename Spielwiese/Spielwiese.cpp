@@ -7,6 +7,7 @@ int main()
 {
    cout << "Hier ist eine Spielwiese. Hier könnt ihr alles mal Testen.";
    cout << funktion << endl;
+   // Test
 }
 
 string funktion() {
